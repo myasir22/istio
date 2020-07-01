@@ -1,8 +1,8 @@
 def HelloWorld():
 	print("Hello")
 
-def FuckYou():
-	print("Fuck You")
+def Sorry():
+	print("Yay")
 
-FuckYou()
+Sorry()
 HelloWorld()
